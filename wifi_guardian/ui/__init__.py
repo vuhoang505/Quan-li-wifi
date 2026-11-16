@@ -1,0 +1,2 @@
+"""Giao diện PySide6."""
+
